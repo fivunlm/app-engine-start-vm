@@ -1,0 +1,4 @@
+cron:
+- description: run instance
+  url: /vm/start
+  schedule: every day 00:00
